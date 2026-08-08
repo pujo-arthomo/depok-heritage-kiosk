@@ -1,0 +1,74 @@
+[
+  {
+    "id": "era-prasejarah",
+    "year": "Prasejarah",
+    "title": "Jejak permukiman purba",
+    "body": "Sebelum era kolonial, kawasan Depok sudah dihuni sejak masa prasejarah. Temuan arkeologis di Bukit Sangkuriang dan Bukit Kucong, alat batu neolitik hingga kapak perunggu, membuktikan wilayah ini berpenghuni jauh sebelum kerajaan Sunda dan masuknya Islam ke Nusantara.",
+    "imageUrl": "/assets/story/prasejarah.jpg",
+    "source": "Diringkas dari tirto.id, \"Depok, Kota Prasejarah yang Terlupakan\""
+  },
+  {
+    "id": "era-1696",
+    "year": "1696",
+    "title": "Chastelein membeli tanah Depok",
+    "body": "Pada 18 Mei 1696, pejabat VOC Cornelis Chastelein membeli lahan seluas sekitar 1.200 hektare dari Residen Cirebon, Lucas van de Meur. Ia membangun perkebunan dan mempekerjakan orang-orang yang dibawanya dari Bali, Sulawesi, Timor, hingga Maluku.",
+    "imageUrl": "/assets/story/1696.jpg",
+    "source": "Diringkas dari National Geographic Indonesia, \"Sejarah Kota Depok: Tanah Warisan VOC hingga Julukan 'Belanda Depok'\""
+  },
+  {
+    "id": "era-1714",
+    "year": "1714",
+    "title": "Wasiat yang membebaskan",
+    "body": "Chastelein meninggal di Batavia pada 1714. Wasiatnya membebaskan sekitar dua ratus orang yang bekerja untuknya dan memberi mereka hak kepemilikan bersama atas tanah Depok, cikal bakal komunitas 12 marga Depok dengan pemerintahan sendiri.",
+    "imageUrl": "/assets/story/1714.jpg",
+    "source": "Diringkas dari National Geographic Indonesia, \"Sejarah Kota Depok: Tanah Warisan VOC hingga Julukan 'Belanda Depok'\""
+  },
+  {
+    "id": "era-1800",
+    "year": "1800",
+    "title": "Depok sebagai negeri kecil",
+    "body": "Sepanjang abad ke-18 hingga ke-19, komunitas 12 marga Depok berkembang dengan tata kelola sendiri di bawah nama Gemeente Depok, status yang membuat Depok kerap dipandang seperti negeri kecil di tengah kekuasaan Hindia Belanda.",
+    "imageUrl": "/assets/story/1800.jpg",
+    "source": "Diringkas dari tirto.id, \"Depok, Kota Prasejarah yang Terlupakan\""
+  },
+  {
+    "id": "era-1900",
+    "year": "1900",
+    "title": "Wajah kota kolonial",
+    "body": "Awal abad ke-20, Depok Lama dipadati bangunan kolonial: rumah di Jalan Pemuda dan Kartini, gereja tertua sejak 1854, hingga tiang telepon Belanda yang masih berdiri sejak 1900. Jembatan Panus dibangun 1917 oleh insinyur Andre Laurens.",
+    "imageUrl": "/assets/story/1900.jpg",
+    "source": "Diringkas dari ANTARA News, \"Depok Lama, kota tua yang sarat peninggalan sejarah Belanda\""
+  },
+  {
+    "id": "era-1945",
+    "year": "1945",
+    "title": "Gedoran Depok",
+    "body": "Oktober 1945, di tengah Masa Bersiap, ribuan pemuda dari Jakarta hingga Bekasi mendatangi Depok menuntut pengakuan kemerdekaan. Peristiwa Gedoran Depok ini menimbulkan kerusuhan dan korban jiwa; nama pemimpinnya, Margonda dan Tole Iskandar, kini jadi nama jalan utama Depok.",
+    "imageUrl": "/assets/story/1945.jpg",
+    "source": "Diringkas dari tirto.id, \"Sejarah Gedoran Depok dan Kekacauan Orang Indonesia dalam Revolusi\""
+  },
+  {
+    "id": "era-1952",
+    "year": "1952",
+    "title": "Berakhirnya tanah partikelir",
+    "body": "Setelah Indonesia merdeka, pemerintah RI menghapus status tanah partikelir Depok pada 1952. Otonomi khusus yang berjalan sejak wasiat Chastelein tahun 1714 pun berakhir, dan Depok menyatu ke sistem pemerintahan Republik Indonesia.",
+    "imageUrl": "/assets/story/1952.jpg",
+    "source": "Diringkas dari National Geographic Indonesia, \"Sejarah Kota Depok: Tanah Warisan VOC hingga Julukan 'Belanda Depok'\""
+  },
+  {
+    "id": "era-1999",
+    "year": "1999",
+    "title": "Menjadi kota mandiri",
+    "body": "Depok berstatus kota administratif sejak 1981, lalu resmi menjadi kota mandiri pada 1999. Pertumbuhannya dipercepat oleh kampus Universitas Indonesia dan Jalan Tol Jagorawi yang menghubungkan Depok dengan Jakarta dan Bogor.",
+    "imageUrl": "/assets/story/1999.jpg",
+    "source": "Diringkas dari tirto.id, \"Depok, Kota Prasejarah yang Terlupakan\""
+  },
+  {
+    "id": "era-sekarang",
+    "year": "Sekarang",
+    "title": "Depok hari ini",
+    "body": "Kini Depok menjadi salah satu kota satelit Jakarta yang paling padat, sekaligus menyimpan jejak sejarah panjang di Depok Lama. Bangunan dan arsip kolonialnya kini dikaji dan dilestarikan oleh Universitas Indonesia, IPB, Trisakti, dan lembaga warisan budaya Belanda.",
+    "imageUrl": "/assets/story/sekarang.jpg",
+    "source": "Diringkas dari ANTARA News, \"Depok Lama, kota tua yang sarat peninggalan sejarah Belanda\""
+  }
+]

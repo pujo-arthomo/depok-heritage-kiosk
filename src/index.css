@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-heading: "Poppins", sans-serif;
+  --font-body: "Plus Jakarta Sans", sans-serif;
+
+  --color-cream: #FCF3E1;
+  --color-cream-dark: #F3E6C9;
+  --color-navy: #14213D;
+  --color-navy-dark: #0B1526;
+  --color-red: #C1272D;
+  --color-red-dark: #8F1B20;
+  --color-green: #6B8F4E;
+  --color-green-dark: #4E6B38;
+  --color-gold: #C9A227;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+/* Kiosk: sembunyikan semua scrollbar di seluruh aplikasi.
+   Konten tetap bisa di-scroll (mis. strip thumbnail) tapi
+   bar visualnya tidak muncul. */
+* {
+  scrollbar-width: none;          /* Firefox */
+  -ms-overflow-style: none;       /* IE/Edge lama */
+}
+*::-webkit-scrollbar {
+  display: none;                  /* Chrome/Safari/Edge */
+  width: 0;
+  height: 0;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-cream);
+  font-family: var(--font-body);
+  color: var(--color-navy);
+  /* Kiosk touchscreen: no text selection, no tap highlight, no callout menus */
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  overscroll-behavior: none;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+}
+
+/* Accessibility: minimum 48px touch target, per brief */
+.touch-target {
+  min-width: 48px;
+  min-height: 48px;
+}
+
+/* react-pageflip: cegah scrollbar muncul sesaat saat animasi membalik.
+   Library-nya sempat mengubah overflow container saat flip berlangsung. */
+.stf__parent,
+.stf__block,
+.stf__wrapper {
+  overflow: hidden !important;
+}

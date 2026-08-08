@@ -1,0 +1,107 @@
+[
+  {
+    "id": "monumen-cornelis-chastelein",
+    "name": "Monumen Cornelis Chastelein",
+    "address": "Jl. Pemuda, Kel. Depok, Kec. Pancoran Mas",
+    "yearFounded": "1914",
+    "category": "Monumen Sejarah",
+    "description": "Monumen ini didirikan untuk mengenang Cornelis Chastelein, pejabat VOC yang pada 18 Mei 1696 membeli tanah Depok dan kelak membebaskan para pekerjanya. Tugu pertama dibangun tahun 1914 untuk memperingati 200 tahun wafatnya Chastelein, sempat diruntuhkan sekitar 1960, lalu dibangun kembali oleh Yayasan Lembaga Cornelis Chastelein pada 2014.",
+    "funFact": "Monumen ini juga dikenal sebagai penanda Titik Nol Kilometer Kota Depok.",
+    "photoUrl": "/assets/locations/monumen-cornelis-chastelein.jpg",
+    "gallery": [],
+    "mapPosition": {
+      "xPercent": 36,
+      "yPercent": 25
+    }
+  },
+  {
+    "id": "rumah-cimanggis",
+    "name": "Rumah Cimanggis",
+    "address": "Kompleks UIII, Cisalak, Kec. Sukmajaya",
+    "yearFounded": "1771",
+    "category": "Bangunan Cagar Budaya",
+    "description": "Rumah peristirahatan yang dibangun tahun 1771-1775 oleh Petrus Albertus van der Parra, Gubernur Jenderal VOC ke-29, sebagai hadiah untuk istrinya. Van der Parra wafat sebelum bangunan rampung. Kini rumah ini telah dipugar menjadi museum di dalam kawasan kampus Universitas Islam Internasional Indonesia (UIII).",
+    "funFact": "Dijuluki \"Rumah Genteng Seribu\" karena atapnya yang begitu luas dan bergenteng banyak.",
+    "photoUrl": "/assets/locations/rumah-cimanggis.jpg",
+    "gallery": [],
+    "mapPosition": {
+      "xPercent": 20,
+      "yPercent": 43
+    }
+  },
+  {
+    "id": "gpib-immanuel-depok",
+    "name": "GPIB Immanuel Depok",
+    "address": "Jl. Pemuda, Kec. Pancoran Mas",
+    "yearFounded": "1713",
+    "category": "Rumah Ibadah Bersejarah",
+    "description": "Gereja tertua di Kota Depok, bermula dari jemaat yang dibentuk bagi kaum yang dimerdekakan Chastelein sejak 1713. Bangunan batu tahun 1792 rusak akibat dampak gempa Krakatau 1833, lalu dibangun kembali secara permanen pada 1854. Nama-nama 12 marga Depok diabadikan di gereja ini.",
+    "funFact": "Renovasi besar tahun 1989 menyisakan sekitar 40% dari bangunan aslinya.",
+    "photoUrl": "/assets/locations/gpib-immanuel-depok.jpg",
+    "gallery": [],
+    "mapPosition": {
+      "xPercent": 64,
+      "yPercent": 35
+    }
+  },
+  {
+    "id": "jembatan-panus",
+    "name": "Jembatan Panus",
+    "address": "Jl. Siliwangi, Kec. Pancoran Mas",
+    "yearFounded": "1917",
+    "category": "Bangunan Cagar Budaya",
+    "description": "Jembatan sepanjang sekitar 100 meter ini dibangun tahun 1917 oleh insinyur Andre Laurens, dan dahulu menjadi jalur penting penghubung Batavia-Bogor pada masa kolonial. Meski usianya lebih dari seabad, jembatan ini masih berdiri kokoh melintasi Sungai Ciliwung.",
+    "funFact": "Nama \"Panus\" berasal dari Stevanus Leander, warga yang tinggal dekat jembatan; masyarakat Sunda setempat menyingkatnya menjadi \"Panus\".",
+    "photoUrl": "/assets/locations/jembatan-panus.jpg",
+    "gallery": [],
+    "mapPosition": {
+      "xPercent": 42,
+      "yPercent": 50
+    }
+  },
+  {
+    "id": "rumah-tua-pondok-cina",
+    "name": "Rumah Tua Pondok Cina",
+    "address": "Jl. Margonda (kawasan Margo City), Kec. Beji",
+    "yearFounded": "1841",
+    "category": "Bangunan Cagar Budaya",
+    "description": "Dibangun sekitar tahun 1841, awalnya milik seorang arsitek Belanda, lalu dibeli saudagar Tionghoa Lauw Tek Lok dan diwariskan kepada putranya, Kapiten Lauw Tjeng Shiang. Kini bangunan berpilar putih ini telah dipugar dan menyatu dengan kawasan pusat perbelanjaan Margo City.",
+    "funFact": "Nama \"Pondok Cina\" berasal dari pondok-pondok singgah pedagang Tionghoa yang dahulu tak diizinkan bermalam di inti Depok Lama.",
+    "photoUrl": "/assets/locations/rumah-tua-pondok-cina.jpg",
+    "gallery": [],
+    "mapPosition": {
+      "xPercent": 73,
+      "yPercent": 53
+    }
+  },
+  {
+    "id": "stasiun-depok-lama",
+    "name": "Stasiun Depok Lama",
+    "address": "Jl. Stasiun, Kel. Depok, Kec. Pancoran Mas",
+    "yearFounded": "1873",
+    "category": "Bangunan Bersejarah",
+    "description": "Dibuka pada 31 Januari 1873 oleh perusahaan kereta NIS, bersamaan dengan diresmikannya jalur Batavia-Buitenzorg (Bogor). Stasiun ini menjadi salah satu yang tertua di wilayah Jabodetabek dan berperan mengangkut hasil perkebunan sekaligus penumpang.",
+    "funFact": "Bangunan aslinya telah dibongkar saat pembangunan jalur ganda pada era 1980-1990-an, sehingga bangunan yang berdiri kini bukan lagi yang asli dari 1873.",
+    "photoUrl": "/assets/locations/stasiun-depok-lama.jpg",
+    "gallery": [],
+    "mapPosition": {
+      "xPercent": 33,
+      "yPercent": 63
+    }
+  },
+  {
+    "id": "tugu-gong-si-bolong",
+    "name": "Tugu Gong Si Bolong",
+    "address": "Perempatan Jl. Tanah Baru, Kec. Beji",
+    "yearFounded": "1648",
+    "category": "Seni & Budaya",
+    "description": "Tugu di perempatan Tanah Baru ini menampilkan replika Gong Si Bolong, gong dengan lubang di tengah yang menurut legenda ditemukan warga bernama Jimin di sekitar Curug Agung, Sungai Krukut, pada tahun 1648. Kesenian gamelan yang lahir darinya menjadi ikon budaya khas Depok, perpaduan unsur Sunda dan Betawi.",
+    "funFact": "Kesenian Gong Si Bolong ditetapkan sebagai Warisan Budaya Takbenda Indonesia pada tahun 2021.",
+    "photoUrl": "/assets/locations/tugu-gong-si-bolong.jpg",
+    "gallery": [],
+    "mapPosition": {
+      "xPercent": 65,
+      "yPercent": 71
+    }
+  }
+]

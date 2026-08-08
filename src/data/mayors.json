@@ -1,0 +1,65 @@
+[
+  {
+    "id": "rukasah-suradimadja",
+    "name": "Drs. Mochammad Rukasah Suradimadja",
+    "period": "1982–1984",
+    "title": "Kepala Daerah Kota Administratif Depok",
+    "photoUrl": "/assets/mayors/01-rukasah-suradimadja.jpg"
+  },
+  {
+    "id": "hmi-tamdjid",
+    "name": "Drs. H.M.I. Tamdjid",
+    "period": "1984–1988",
+    "title": "Kepala Daerah Kota Administratif Depok",
+    "photoUrl": "/assets/mayors/02-hmi-tamdjid.jpg"
+  },
+  {
+    "id": "abdul-wachyan",
+    "name": "Drs. H. Abdul Wachyan, M.Si",
+    "period": "1988–1991",
+    "title": "Kepala Daerah Kota Administratif Depok",
+    "photoUrl": "/assets/mayors/03-abdul-wachyan.jpg"
+  },
+  {
+    "id": "moch-masduki",
+    "name": "Drs. H. Moch. Masduki",
+    "period": "1991–1992",
+    "title": "Kepala Daerah Kota Administratif Depok",
+    "photoUrl": "/assets/mayors/04-moch-masduki.jpg"
+  },
+  {
+    "id": "sofyan-safari-hamim",
+    "name": "Drs. H. Sofyan Safari Hamim",
+    "period": "1992–1996",
+    "title": "Kepala Daerah Kota Administratif Depok",
+    "photoUrl": "/assets/mayors/05-sofyan-safari-hamim.jpg"
+  },
+  {
+    "id": "yuyun-wirasaputra",
+    "name": "Drs. H. Yuyun Wirasaputra, MM",
+    "period": "1996–1997",
+    "title": "Kepala Daerah Kota Administratif Depok",
+    "photoUrl": "/assets/mayors/06-yuyun-wirasaputra.jpg"
+  },
+  {
+    "id": "badrul-kamal",
+    "name": "Drs. H. Badrul Kamal",
+    "period": "1997–1999 & 1999–2005",
+    "title": "Kepala Daerah Kota Administratif Depok & Walikota Kota Depok",
+    "photoUrl": "/assets/mayors/07-badrul-kamal.jpg"
+  },
+  {
+    "id": "nur-mahmudi-ismail",
+    "name": "DR. Ir. H. Nur Mahmudi Ismail, M.Sc",
+    "period": "2005–2015",
+    "title": "Walikota Kota Depok",
+    "photoUrl": "/assets/mayors/08-nur-mahmudi-ismail.jpg"
+  },
+  {
+    "id": "mohammad-idris",
+    "name": "H. Mohammad Idris",
+    "period": "2016–2025",
+    "title": "Walikota Kota Depok",
+    "photoUrl": "/assets/mayors/09-mohammad-idris.jpg"
+  }
+]

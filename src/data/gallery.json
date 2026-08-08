@@ -1,0 +1,58 @@
+[
+  {
+    "id": "foto-001",
+    "title": "Stasiun Depok Lama, sekitar 1980-an",
+    "category": "Foto",
+    "year": "~1985",
+    "imageUrl": "/assets/locations/stasiun-depok-lama.jpg",
+    "caption": "Peron stasiun tertua di Jabodetabek dengan suasana keramaian penumpang."
+  },
+  {
+    "id": "foto-002",
+    "title": "Jembatan Panus melintasi Ciliwung",
+    "category": "Foto",
+    "year": "2024",
+    "imageUrl": "/assets/locations/jembatan-panus.jpg",
+    "caption": "Jembatan yang dibangun insinyur Andre Laurens pada tahun 1917."
+  },
+  {
+    "id": "foto-003",
+    "title": "GPIB Immanuel Depok dari udara",
+    "category": "Foto",
+    "year": "2023",
+    "imageUrl": "/assets/locations/gpib-immanuel-depok.jpg",
+    "caption": "Gereja tertua di Kota Depok, bermula dari jemaat tahun 1713."
+  },
+  {
+    "id": "foto-004",
+    "title": "Monumen Cornelis Chastelein",
+    "category": "Foto",
+    "year": "2024",
+    "imageUrl": "/assets/locations/monumen-cornelis-chastelein.jpg",
+    "caption": "Tugu penanda Titik Nol Kilometer Kota Depok di Jl. Pemuda."
+  },
+  {
+    "id": "foto-005",
+    "title": "Rumah Cimanggis — Landhuis Tjimanggis",
+    "category": "Foto",
+    "year": "2024",
+    "imageUrl": "/assets/locations/rumah-cimanggis.jpg",
+    "caption": "Bangunan cagar budaya 1771–1775, kini museum di kawasan UIII."
+  },
+  {
+    "id": "foto-006",
+    "title": "Rumah Tua Pondok Cina",
+    "category": "Foto",
+    "year": "2023",
+    "imageUrl": "/assets/locations/rumah-tua-pondok-cina.jpg",
+    "caption": "Bangunan berpilar putih dari 1841, kini menyatu dengan kawasan Margo City."
+  },
+  {
+    "id": "foto-007",
+    "title": "Tugu Gong Si Bolong, Tanah Baru",
+    "category": "Foto",
+    "year": "2024",
+    "imageUrl": "/assets/locations/tugu-gong-si-bolong.jpg",
+    "caption": "Replika Gong Si Bolong, Warisan Budaya Takbenda Indonesia sejak 2021."
+  }
+]
